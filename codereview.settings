@@ -1,5 +1,5 @@
 # This file is used by gcl to get repository specific information.
-# GERRIT_HOST: chromium-review.googlesource.com
-CODE_REVIEW_SERVER: chromium-review.googlesource.com
+GERRIT_HOST:
+CODE_REVIEW_SERVER: codereview.chromium.org
 # CC_LIST: chromium-reviews@chromium.org
 VIEW_VC: https://github.com/hirono-chromium/codereview-test/commit/+/
